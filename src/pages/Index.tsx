@@ -84,12 +84,7 @@ const Index = () => {
                   Мы следим, чтобы даже после изменения <span className="font-semibold text-black">архив не стал дороже</span> сопоставимых актуальных предложений билайн.
                 </div>
               </li>
-              <li className="flex gap-3 items-start">
-                <div className="w-2 h-2 rounded-full bg-yellow-400 flex-shrink-0 mt-2"></div>
-                <div className="text-base text-gray-700 leading-relaxed">
-                  Ваши пакеты минут, SMS и гигабайтов, а также подключённые опции <span className="font-semibold text-black">сохраняются без изменений</span>.
-                </div>
-              </li>
+
             </ul>
           </div>
 
