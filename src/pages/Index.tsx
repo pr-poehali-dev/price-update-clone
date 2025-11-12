@@ -33,19 +33,6 @@ const Index = () => {
           <div className="h-px bg-gray-200 my-8"></div>
 
           <div className="mb-10">
-            <h2 className="text-xl md:text-2xl font-heading font-bold mb-4 text-black">
-              Зачем это нужно сейчас
-            </h2>
-            <div className="space-y-3 text-base text-gray-700 leading-relaxed">
-              <p>
-                Коротко: чтобы у вас не зависали фильмы и видеозвонки, связь держалась и в офисе, и в подвальном клубе, а интернет оставался быстрым и стабильным — даже при растущей нагрузке на сеть. По данным Минцифры, совокупный трафик фиксированных и мобильных сетей в РФ в 2024 году вырос примерно на 24% и продолжает расти в 2025-м.
-              </p>
-            </div>
-          </div>
-
-          <div className="h-px bg-gray-200 my-8"></div>
-
-          <div className="mb-10">
             <h2 className="text-xl md:text-2xl font-heading font-bold mb-6 text-black">
               Что происходит в экономике
             </h2>
