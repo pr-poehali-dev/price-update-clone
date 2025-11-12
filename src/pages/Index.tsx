@@ -62,7 +62,7 @@ const Index = () => {
               <li className="flex gap-3 items-start">
                 <div className="w-2 h-2 rounded-full bg-yellow-400 flex-shrink-0 mt-2"></div>
                 <div className="text-base text-gray-700 leading-relaxed">
-                  Индексация затрагивает <span className="font-semibold text-black">архивные тарифы</span>
+                  Меняем условия <span className="font-semibold text-black">архивных тарифных планов</span>, приводя их стоимость в соответствие с экономической ситуацией.
                 </div>
               </li>
               <li className="flex gap-3 items-start">
