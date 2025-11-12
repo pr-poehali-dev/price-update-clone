@@ -103,39 +103,6 @@ const Index = () => {
           <div className="h-px bg-gray-200 my-8"></div>
 
           <div className="mb-10">
-            <h2 className="text-xl md:text-2xl font-heading font-bold mb-6 text-black">
-              Как мы делаем изменения честными
-            </h2>
-            <div className="space-y-5">
-              <div className="flex gap-4 items-start">
-                <Badge className="text-base font-heading font-bold px-2.5 py-1 bg-black text-white rounded-md">1</Badge>
-                <div>
-                  <h3 className="font-semibold text-base mb-1 text-black">Сначала эффективность.</h3>
-                  <p className="text-gray-700 text-base">Сокращаем внутренние издержки, а не закрываем глаза на них.</p>
-                </div>
-              </div>
-              <div className="flex gap-4 items-start">
-                <Badge className="text-base font-heading font-bold px-2.5 py-1 bg-black text-white rounded-md">2</Badge>
-                <div>
-                  <h3 className="font-semibold text-base mb-1 text-black">Точечно.</h3>
-                  <p className="text-gray-700 text-base">Меняем условия архивных тарифных планов, приводя их стоимость в соответствие с экономической ситуацией.</p>
-                </div>
-              </div>
-              <div className="flex gap-4 items-start">
-                <Badge className="text-base font-heading font-bold px-2.5 py-1 bg-black text-white rounded-md">3</Badge>
-                <div>
-                  <h3 className="font-semibold text-base mb-1 text-black">Прозрачно.</h3>
-                  <p className="text-gray-700 text-base">
-                    Пишем заранее, называем причину напрямую — <span className="font-semibold text-black">рост НДС до 22%</span> — и указываем дату первого списания в новом размере.
-                  </p>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div className="h-px bg-gray-200 my-8"></div>
-
-          <div className="mb-10">
             <h2 className="text-xl md:text-2xl font-heading font-bold mb-4 text-black">
               Это всё ещё выгодно?
             </h2>
