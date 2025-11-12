@@ -113,7 +113,7 @@ const Index = () => {
 
           <div className="h-px bg-gray-200 my-8"></div>
 
-          <div>
+          <div className="bg-yellow-400 rounded-2xl p-6 md:p-8">
             <h2 className="text-xl md:text-2xl font-heading font-bold mb-4 text-black">
               Честное обещание
             </h2>
