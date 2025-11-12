@@ -118,7 +118,7 @@ const Index = () => {
                 <Badge className="text-base font-heading font-bold px-2.5 py-1 bg-black text-white rounded-md">2</Badge>
                 <div>
                   <h3 className="font-semibold text-base mb-1 text-black">Точечно.</h3>
-                  <p className="text-gray-700 text-base">Корректируем в первую очередь архивные планы.</p>
+                  <p className="text-gray-700 text-base">Меняем условия архивных тарифных планов, приводя их стоимость в соответствие с экономической ситуацией.</p>
                 </div>
               </div>
               <div className="flex gap-4 items-start">
