@@ -18,6 +18,22 @@ const Index = () => {
 
           <div className="mb-10">
             <h2 className="text-xl md:text-2xl font-heading font-bold mb-4 text-black">
+              Почему мы обновляем стоимость сейчас
+            </h2>
+            <div className="space-y-3 text-base text-gray-700 leading-relaxed">
+              <p>
+                <span className="font-semibold text-black">Коротко:</span> с 1 января 2026 года базовая ставка НДС в стране повышается с 20% до 22%. Это обязательный налог для всех игроков рынка, и его рост напрямую влияет на себестоимость связи и цифровых сервисов.
+              </p>
+              <p>
+                Мы честно отражаем этот внешний фактор в цене — чтобы сохранить качество сети и сервисов на привычном уровне.
+              </p>
+            </div>
+          </div>
+
+          <div className="h-px bg-gray-200 my-8"></div>
+
+          <div className="mb-10">
+            <h2 className="text-xl md:text-2xl font-heading font-bold mb-4 text-black">
               Зачем это нужно сейчас
             </h2>
             <div className="space-y-3 text-base text-gray-700 leading-relaxed">
@@ -47,22 +63,6 @@ const Index = () => {
                 </div>
               </li>
             </ul>
-          </div>
-
-          <div className="h-px bg-gray-200 my-8"></div>
-
-          <div className="mb-10">
-            <h2 className="text-xl md:text-2xl font-heading font-bold mb-4 text-black">
-              Почему мы обновляем стоимость сейчас
-            </h2>
-            <div className="space-y-3 text-base text-gray-700 leading-relaxed">
-              <p>
-                <span className="font-semibold text-black">Коротко:</span> с 1 января 2026 года базовая ставка НДС в стране повышается с 20% до 22%. Это обязательный налог для всех игроков рынка, и его рост напрямую влияет на себестоимость связи и цифровых сервисов.
-              </p>
-              <p>
-                Мы честно отражаем этот внешний фактор в цене — чтобы сохранить качество сети и сервисов на привычном уровне.
-              </p>
-            </div>
           </div>
 
           <div className="h-px bg-gray-200 my-8"></div>
