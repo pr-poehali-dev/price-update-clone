@@ -55,29 +55,6 @@ const Index = () => {
           <div className="h-px bg-gray-200 my-8"></div>
 
           <div className="mb-10">
-            <h2 className="text-xl md:text-2xl font-heading font-bold mb-6 text-black">
-              Что именно меняется
-            </h2>
-            <ul className="space-y-5">
-              <li className="flex gap-3 items-start">
-                <div className="w-2 h-2 rounded-full bg-yellow-400 flex-shrink-0 mt-2"></div>
-                <div className="text-base text-gray-700 leading-relaxed">
-                  Меняем условия <span className="font-semibold text-black">архивных тарифных планов</span>, приводя их стоимость в соответствие с экономической ситуацией.
-                </div>
-              </li>
-              <li className="flex gap-3 items-start">
-                <div className="w-2 h-2 rounded-full bg-yellow-400 flex-shrink-0 mt-2"></div>
-                <div className="text-base text-gray-700 leading-relaxed">
-                  Мы следим, чтобы даже после изменения <span className="font-semibold text-black">архив не стал дороже</span> сопоставимых актуальных предложений билайн.
-                </div>
-              </li>
-
-            </ul>
-          </div>
-
-          <div className="h-px bg-gray-200 my-8"></div>
-
-          <div className="mb-10">
             <h2 className="text-xl md:text-2xl font-heading font-bold mb-4 text-black">
               Зачем это нужно сети и вам
             </h2>
@@ -97,6 +74,29 @@ const Index = () => {
                 <div className="w-2 h-2 rounded-full bg-yellow-400 flex-shrink-0 mt-2"></div>
                 <span className="text-base text-gray-700">безопасность и развитие сервисов в приложении билайн.</span>
               </li>
+            </ul>
+          </div>
+
+          <div className="h-px bg-gray-200 my-8"></div>
+
+          <div className="mb-10">
+            <h2 className="text-xl md:text-2xl font-heading font-bold mb-6 text-black">
+              Что именно меняется
+            </h2>
+            <ul className="space-y-5">
+              <li className="flex gap-3 items-start">
+                <div className="w-2 h-2 rounded-full bg-yellow-400 flex-shrink-0 mt-2"></div>
+                <div className="text-base text-gray-700 leading-relaxed">
+                  Меняем условия <span className="font-semibold text-black">архивных тарифных планов</span>, приводя их стоимость в соответствие с экономической ситуацией.
+                </div>
+              </li>
+              <li className="flex gap-3 items-start">
+                <div className="w-2 h-2 rounded-full bg-yellow-400 flex-shrink-0 mt-2"></div>
+                <div className="text-base text-gray-700 leading-relaxed">
+                  Мы следим, чтобы даже после изменения <span className="font-semibold text-black">архив не стал дороже</span> сопоставимых актуальных предложений билайн.
+                </div>
+              </li>
+
             </ul>
           </div>
 
