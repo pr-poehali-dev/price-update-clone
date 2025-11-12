@@ -121,6 +121,50 @@ const Index = () => {
               Мы не будем обещать, что цены в <span className="font-semibold text-black">2035</span> останутся как в <span className="font-semibold text-black">2025</span>. Но будем обещать другое: <span className="font-semibold text-black">каждый раз заранее и простыми словами объяснять причины изменений</span> — как сейчас, когда ключевой фактор понятен и объективен: повышение НДС до 22%.
             </p>
           </div>
+
+          <div className="h-px bg-gray-200 my-8"></div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div className="bg-gray-50 rounded-2xl p-6">
+              <div className="w-12 h-12 bg-yellow-400 rounded-full flex items-center justify-center mb-4">
+                <svg className="w-6 h-6 text-black" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <rect x="5" y="2" width="14" height="20" rx="2" strokeWidth="2"/>
+                  <path d="M12 18h.01" strokeWidth="2" strokeLinecap="round"/>
+                </svg>
+              </div>
+              <h3 className="text-lg font-heading font-bold mb-2 text-black">Удобное приложение</h3>
+              <p className="text-sm text-gray-700 leading-relaxed">
+                Всё под рукой: баланс, тарифы, управление услугами
+              </p>
+            </div>
+
+            <div className="bg-gray-50 rounded-2xl p-6">
+              <div className="w-12 h-12 bg-yellow-400 rounded-full flex items-center justify-center mb-4">
+                <svg className="w-6 h-6 text-black" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <circle cx="12" cy="12" r="3" strokeWidth="2"/>
+                  <path d="M12 1v6m0 6v6M1 12h6m6 0h6" strokeWidth="2"/>
+                  <path d="M4.22 4.22l4.24 4.24m7.08 0l4.24-4.24m0 15.56l-4.24-4.24m-7.08 0l-4.24 4.24" strokeWidth="2"/>
+                </svg>
+              </div>
+              <h3 className="text-lg font-heading font-bold mb-2 text-black">Честные настройки</h3>
+              <p className="text-sm text-gray-700 leading-relaxed">
+                Без скрытых платежей и неожиданных списаний
+              </p>
+            </div>
+
+            <div className="bg-gray-50 rounded-2xl p-6">
+              <div className="w-12 h-12 bg-yellow-400 rounded-full flex items-center justify-center mb-4">
+                <svg className="w-6 h-6 text-black" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path d="M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5z" strokeWidth="2" strokeLinejoin="round"/>
+                  <path d="M12 11v6m0-6a2 2 0 100-4 2 2 0 000 4z" strokeWidth="2" strokeLinecap="round"/>
+                </svg>
+              </div>
+              <h3 className="text-lg font-heading font-bold mb-2 text-black">Качественный интернет</h3>
+              <p className="text-sm text-gray-700 leading-relaxed">
+                Стабильная связь там, где вам нужно
+              </p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
