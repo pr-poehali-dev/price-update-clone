@@ -17,9 +17,7 @@ const Index = () => {
           </h1>
 
           <div className="mb-10">
-            <h2 className="text-xl md:text-2xl font-heading font-bold mb-4 text-black">
-              Почему мы обновляем стоимость сейчас
-            </h2>
+            <h2 className="text-xl md:text-2xl font-heading font-bold mb-4 text-black">Почему мы обновляем стоимость с <дата></h2>
             <div className="space-y-3 text-base text-gray-700 leading-relaxed">
               <p>
                 <span className="font-semibold text-black">Коротко:</span> с 1 января 2026 года базовая ставка НДС в стране повышается с 20% до 22%. Это обязательный налог для всех игроков рынка, и его рост напрямую влияет на себестоимость связи и цифровых сервисов.
