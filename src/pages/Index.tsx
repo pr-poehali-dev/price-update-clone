@@ -116,7 +116,7 @@ const Index = () => {
               Честное обещание
             </h2>
             <p className="text-base text-gray-700 leading-relaxed">
-              Мы не будем обещать, что цены в <span className="font-semibold text-black">2035</span> останутся как в <span className="font-semibold text-black">2025</span>. Но будем обещать другое: <span className="font-semibold text-black">каждый раз заранее и простыми словами объяснять причины изменений</span> — как сейчас, когда ключевой фактор понятен и объективен: повышение НДС до 22%.
+              Мы не будем обещать, что цены в <span className="font-semibold text-black">2030</span> останутся на прежнем уровне. Но будем обещать другое: <span className="font-semibold text-black">каждый раз заранее и простыми словами объяснять причины изменений</span> — как сейчас, когда ключевой фактор понятен и объективен: повышение НДС до 22%.
             </p>
           </div>
 
